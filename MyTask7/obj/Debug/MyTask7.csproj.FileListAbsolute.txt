@@ -1,0 +1,8 @@
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\bin\Debug\MyTask7.dll
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\bin\Debug\MyTask7.pdb
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\obj\Debug\MyTask7.csproj.AssemblyReference.cache
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\obj\Debug\MyTask7.MyTask7.resources
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\obj\Debug\MyTask7.csproj.GenerateResource.cache
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\obj\Debug\MyTask7.csproj.CoreCompileInputs.cache
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\obj\Debug\MyTask7.dll
+C:\Users\SH20550469\source\repos\MyTask7\MyTask7\obj\Debug\MyTask7.pdb
