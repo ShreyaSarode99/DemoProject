@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|c:\\users\\sh20550469\\source\\repos\\mytask8\\mytask8\\mytask8.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|solutionrelative:mytask8\\mytask8.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|c:\\users\\sh20550469\\source\\repos\\mytask8\\mytask8\\elementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|solutionrelative:mytask8\\elementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|c:\\users\\sh20550469\\source\\repos\\mytask8\\mytask8\\mytask8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|solutionrelative:mytask8\\mytask8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|c:\\users\\sh20550469\\source\\repos\\mytask8\\mytask8\\mytask8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|solutionrelative:mytask8\\mytask8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|c:\\users\\sh20550469\\source\\repos\\mytask8\\mytask8\\mytask8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|solutionrelative:mytask8\\mytask8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|c:\\users\\sh20550469\\source\\repos\\mytask8\\mytask8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2680431-C7DF-4447-BC0B-AA4ABCF3F1BC}|MyTask8\\MyTask8.csproj|solutionrelative:mytask8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTask8.addin",
+              "DocumentMoniker": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.addin",
+              "RelativeDocumentMoniker": "MyTask8\\MyTask8.addin",
+              "ToolTip": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.addin",
+              "RelativeToolTip": "MyTask8\\MyTask8.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-12-12T04:09:55.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElementData.cs",
+              "DocumentMoniker": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\ElementData.cs",
+              "RelativeDocumentMoniker": "MyTask8\\ElementData.cs",
+              "ToolTip": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\ElementData.cs",
+              "RelativeToolTip": "MyTask8\\ElementData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:47:02.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTask8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.Designer.cs",
+              "RelativeDocumentMoniker": "MyTask8\\MyTask8.Designer.cs",
+              "ToolTip": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.Designer.cs",
+              "RelativeToolTip": "MyTask8\\MyTask8.Designer.cs",
+              "ViewState": "AgIAAJ4DAAAAAAAAAAAAALkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:46:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTask8.cs",
+              "DocumentMoniker": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.cs",
+              "RelativeDocumentMoniker": "MyTask8\\MyTask8.cs",
+              "ToolTip": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.cs",
+              "RelativeToolTip": "MyTask8\\MyTask8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:46:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyTask8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.cs",
+              "RelativeDocumentMoniker": "MyTask8\\MyTask8.cs",
+              "ToolTip": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\MyTask8.cs [Design]",
+              "RelativeToolTip": "MyTask8\\MyTask8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:46:09.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\Class1.cs",
+              "RelativeDocumentMoniker": "MyTask8\\Class1.cs",
+              "ToolTip": "C:\\Users\\SH20550469\\source\\repos\\MyTask8\\MyTask8\\Class1.cs",
+              "RelativeToolTip": "MyTask8\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:43:55.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

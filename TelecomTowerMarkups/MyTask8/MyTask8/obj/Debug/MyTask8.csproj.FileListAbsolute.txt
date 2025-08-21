@@ -1,0 +1,8 @@
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\bin\Debug\MyTask8.dll
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\bin\Debug\MyTask8.pdb
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\obj\Debug\MyTask8.csproj.AssemblyReference.cache
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\obj\Debug\MyTask8.MyTask8.resources
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\obj\Debug\MyTask8.csproj.GenerateResource.cache
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\obj\Debug\MyTask8.csproj.CoreCompileInputs.cache
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\obj\Debug\MyTask8.dll
+C:\Users\SH20550469\source\repos\MyTask8\MyTask8\obj\Debug\MyTask8.pdb

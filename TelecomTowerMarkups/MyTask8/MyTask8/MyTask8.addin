@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>MyTask8</Name>
+		<FullClassName>MyTask8.Class1</FullClassName>
+		<Assembly>
+			C:\Users\SH20550469\source\repos\MyTask8\MyTask8\bin\Debug\MyTask8.dll
+
+		</Assembly>
+		<AddInId>E39E494B-80FF-40EC-971B-2BBCFB65A7F2</AddInId>
+		<VendorId>www.aec-tech.net</VendorId>
+		<VendorDescription>www.aec-tech.net</VendorDescription>
+	</AddIn>
+</RevitAddIns>
